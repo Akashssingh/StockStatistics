@@ -1,0 +1,31 @@
+C:\Users\Akash Singh\Documents\Project3Group16\bin\Debug\Project3Group16.exe.config
+C:\Users\Akash Singh\Documents\Project3Group16\bin\Debug\Project3Group16.exe
+C:\Users\Akash Singh\Documents\Project3Group16\bin\Debug\Project3Group16.pdb
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.csproj.AssemblyReference.cache
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.Form1.resources
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.Properties.Resources.resources
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.csproj.GenerateResource.cache
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.csproj.CoreCompileInputs.cache
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.exe
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.pdb
+C:\Users\Akash Singh\Documents\Project3Group16\obj\Debug\Project3Group16.Form2.resources
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.csprojAssemblyReference.cache
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.Properties.Resources.resources
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.csproj.GenerateResource.cache
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.exe
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.pdb
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.mainWin.resources
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.dataForm.resources
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Project3Group16.exe.config
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Project3Group16.exe
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Project3Group16.pdb
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\CsvHelper.dll
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Flurl.dll
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Flurl.Http.dll
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Newtonsoft.Json.dll
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\YahooFinanceApi.dll
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\CsvHelper.xml
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Flurl.xml
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Flurl.Http.xml
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\bin\Debug\Newtonsoft.Json.xml
+C:\Users\justi\Downloads\Project3Group16\Project3Group16\obj\Debug\Project3Group16.csproj.CopyComplete

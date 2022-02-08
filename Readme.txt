@@ -1,0 +1,1 @@
+This was the final project done in a group of two. The task was to make an application to display stock statistics as per project requirements. Please see the project specifications. Made with Windows Form and C# in Visual Studios 17.
